@@ -1,21 +1,3 @@
-<img src="https://github.com/user-attachments/assets/b8d6f342-c18b-492e-b87f-06755f775c5f" alt="Canopy Logo" width="500"/>
-
-_Official golang implementation of the Canopy Network Protocol_
-
-[![GoDoc](https://img.shields.io/badge/godoc-reference-white.svg)](https://godoc.org/github.com/canopy-network/canopy)
-[![Getting Started](https://img.shields.io/badge/getting%20started-guide-white)](https://canopynetwork.org)
-[![Go Version](https://img.shields.io/badge/golang-v1.21-white.svg)](https://golang.org)
-[![Next.js Version](https://img.shields.io/badge/next%20js-v14.2.3-white.svg)](https://nextjs.org/)
-
-
-# Overview
-
-[![License](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT)
-[![Testing](https://img.shields.io/badge/testing-docker%20compose-white)](https://docs.docker.com/compose/)
-[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-white.svg)](https://github.com/canopy-network/canopy/releases)
-[![Status](https://img.shields.io/badge/status-alphanet-white)](https://docs.docker.com/compose/)
-
-### ⫸ **Welcome to the Network that Powers the Peer-to-Peer Launchpad for New Chains**
 
 Built on a recursive architecture, chains bootstrap each other into independence —  
 forming an `unstoppable` web of utility and security. 
