@@ -14,23 +14,7 @@ make docker/logs
 
 or simply
 
-make docker/up && make docker/logs
-```
 
-## Running Tests
-
-➪ To run Canopy unit tests, use the Go testing tools:
-
-```bash
-make test
-```
-
-## How to Contribute
-
-➪ Canopy is an open-source project, and we welcome contributions from the community. Here's how to get involved:
-
-1. **Fork** the repository and clone it locally.
-2. **Code** your improvements or fixes.
 3. **Submit a Pull Request** (PR) for review.
 
 ➣ Please follow these [guidelines](CONTRIBUTING.md) to maintain high-quality contributions:
